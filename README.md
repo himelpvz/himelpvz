@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/himelpvz/himelpvz/main/assets/banner.png" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Himel Parvez</b></h1>
+<h1 align="center"><b>Himel Parvez</b></h1>
 <h3 align="center">Android Developer • Device Tree Engineer • TWRP Maintainer</h3>
 
 <p align="center">
@@ -15,37 +15,38 @@
 
 ---
 
-## 🧊 About Me
+## **Profile Overview**
 
-- 👤 **Name:** Himel Parvez  
-- 💻 **Username:** `himelpvz`
-- 📱 **Telegram:** [@Himel_Pvz](https://t.me/Himel_Pvz)
-- 🌍 **Location:** Bangladesh  
-- 📧 **Email:** **himelparvez39@gmail.com**
-- 🌐 **Portfolio:** **https://himelpvz.github.io**
-- 📱 **Focus:** Android, Device Trees, TWRP, AOSP  
-- ⚙️ **Devices:** Redmi Note 12 5G / Poco X5 5G (sunstone / moonstone)  
-- 🛠 **Skills:** Kernel configs, AVB/FBE, vendor bring-up, recovery engineering  
+- **Name:** Himel Parvez  
+- **Username:** `himelpvz`  
+- **Location:** Bangladesh  
+- **Email:** himelparvez39@gmail.com  
+- **Telegram:** [@Himel_Pvz](https://t.me/Himel_Pvz)  
+- **Portfolio:** https://himelpvz.github.io  
 
----
-
-## 🚀 Featured Android Work
-
-### 📦 Device Trees  
-- Unified support for **stone / sunstone / moonstone**  
-- Optimized for stability & clean architecture  
-
-### 🛡 TWRP Development  
-- AVB2 handling  
-- Stable FBE decryption  
-- Partition layout fixes  
-
-### 🤖 Automation  
-- GitHub Actions workflow for auto-building recoveries  
+**Expertise:**  
+Android Development, Device Trees, TWRP, AOSP, Kernel Tweaks  
+**Devices:** Redmi Note 12 5G / Poco X5 5G (sunstone / moonstone)  
 
 ---
 
-## 🛠 Tech Stack
+## **Key Projects and Contributions**
+
+### • Device Tree Engineering  
+- Unified device trees for **stone / sunstone / moonstone**  
+- Highly stable bring-up with clean partition mapping  
+
+### • TWRP / Recovery Development  
+- AVB 2.0 patching  
+- FBE decryption support  
+- Recovery layout and vendor compatibility improvements  
+
+### • Build Automation  
+- GitHub Actions pipelines for automated recovery building  
+
+---
+
+## **Technical Skillset**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,git,github,linux,bash,cpp,c,python,vscode,neovim" />
@@ -53,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Analytics (Glass UI)
+## **GitHub Analytics**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himelpvz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
@@ -62,7 +63,7 @@
 
 ---
 
-## 🔥 Activity & Streak
+## **Contribution Activity**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=himelpvz&theme=tokyonight&hide_border=true&background=00000000" />
@@ -70,7 +71,7 @@
 
 ---
 
-## 🐍 Snake Contribution Animation (WORKING)
+## **Contribution Graph Animation**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/himelpvz/himelpvz/main/dist/snake.svg" />
@@ -78,7 +79,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## **Contact Information**
 
 <p align="center">
   <a href="https://t.me/Himel_Pvz">
@@ -98,9 +99,7 @@
 ---
 
 <p align="center">
-  <i>“Open-source isn’t just code — it’s collaboration, passion, and persistence.”</i>
+  <i>“Open-source is driven by collaboration, consistency, and craftsmanship.”</i>
 </p>
 
-<p align="center">
-  ⭐ <b>If you like my work, consider giving a star to my repositories!</b>
-</p>
+<p align="center"><b>If you find my work useful, please consider starring my repositories.</b></p>
